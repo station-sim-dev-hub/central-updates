@@ -1,7 +1,7 @@
 {
- "versionCode": 16,
- "versionName": "0.16",
- "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/central-updates/main/CentralBlind-0.16.apk",
- "sha256": "6d53cccc20f14ee06b651be077708a50e10fa61d46aac1ee9122533c61099604",
- "notes": "عجلة الحظ صارت جوائزها متنوعة كل يوم، وجائزة اليوم الأول 10000 كوينز"
+ "versionCode": 17,
+ "versionName": "0.17",
+ "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/central-updates/main/CentralBlind-0.17.apk",
+ "sha256": "5b45f47c13da162d6968e16551ebf57bd860a0d400d1ef34ed31547a84db1f89",
+ "notes": "زر عجلة الحظ صار في القائمة الرئيسية"
 }
