@@ -1,7 +1,7 @@
 {
- "versionCode": 15,
- "versionName": "0.15",
- "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/central-updates/main/CentralBlind-0.15.apk",
- "sha256": "74de9904ba34eda5c9b71fe8766eee803ae1e1a5f687a9f661151bf1ca0e18fc",
- "notes": "إضافة التحديث من داخل اللعبة، وعجلة الحظ اليومية، وإيقاف الصوت عند الخروج من اللعبة"
+ "versionCode": 16,
+ "versionName": "0.16",
+ "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/central-updates/main/CentralBlind-0.16.apk",
+ "sha256": "6d53cccc20f14ee06b651be077708a50e10fa61d46aac1ee9122533c61099604",
+ "notes": "عجلة الحظ صارت جوائزها متنوعة كل يوم، وجائزة اليوم الأول 10000 كوينز"
 }
