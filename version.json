@@ -1,7 +1,7 @@
 {
- "versionCode": 17,
- "versionName": "0.17",
- "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/central-updates/main/CentralBlind-0.17.apk",
- "sha256": "5b45f47c13da162d6968e16551ebf57bd860a0d400d1ef34ed31547a84db1f89",
- "notes": "زر عجلة الحظ صار في القائمة الرئيسية"
+ "versionCode": 18,
+ "versionName": "0.18",
+ "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/central-updates/main/CentralBlind-0.18.apk",
+ "sha256": "9eb516e93235eace526c0309ff9b7a0775d6f4a8ca194ef3d2d6754705f2752a",
+ "notes": "إشعارات التحديث أسرع وأعلى صوتًا، خيارات عند نفاد المخزون، زبائن وموظفون جدد"
 }
