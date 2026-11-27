@@ -1,7 +1,7 @@
 {
- "versionCode": 18,
- "versionName": "0.18",
- "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/central-updates/main/CentralBlind-0.18.apk",
- "sha256": "1276cf9aa95de7052e5eb236ac67d537460aa75b2d7f39c9a061d434025e1413",
- "notes": "بلايستيشن وأيدي تحكم: بيع وإصلاح وكراتين للمخزون، منفاخ جديد يعمل فورًا، خيارات عند نفاد المخزون، إشعارات تحديث أسرع، زبائن وموظفون جدد"
+ "versionCode": 19,
+ "versionName": "0.19",
+ "apkUrl": "https://raw.githubusercontent.com/station-sim-dev-hub/central-updates/main/CentralBlind-0.19.apk",
+ "sha256": "49aec67f9a0260148b591f7f95e701d15ad19c8de384866664c20ccd890746e9",
+ "notes": "تحديث بواسطة المطور"
 }
